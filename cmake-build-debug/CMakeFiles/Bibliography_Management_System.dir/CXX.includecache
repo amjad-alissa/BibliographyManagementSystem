@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/SoftwareProjects/CLionProjects/C++/Bibliography Management System/Bibliography.cpp
+Bibliography.h
+F:/SoftwareProjects/CLionProjects/C++/Bibliography Management System/Bibliography.h
+
+F:/SoftwareProjects/CLionProjects/C++/Bibliography Management System/Bibliography.h
+Medium.h
+F:/SoftwareProjects/CLionProjects/C++/Bibliography Management System/Medium.h
+
+F:/SoftwareProjects/CLionProjects/C++/Bibliography Management System/Medium.h
+string
+-
+
