@@ -1,2 +1,2 @@
 # BibliographyManagementSystem
-Bibliography Management System
+Bibliography Management System as an assignment for "Programming 3" TH Ulm
